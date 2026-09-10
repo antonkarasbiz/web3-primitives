@@ -1,0 +1,20 @@
+{
+  "name": "web3-primitives",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shared Web3 primitives: chain registry, EIP-712 domains, and ERC-20 allowance gates.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "check": "tsc -p tsconfig.json --noEmit",
+    "dev": "tsx src/index.ts",
+    "test": "tsx --test src/**/*.test.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}
