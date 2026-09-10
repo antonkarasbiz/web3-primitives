@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @vaskoaudia6
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Archived profile configuration
 
-<!---
-vaskoaudia6/vaskoaudia6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This repository previously held GitHub profile configuration under a retired username.
+
+The active engineering account is **[antonkarasbiz](https://github.com/antonkarasbiz)**.
+
+That account is the source of truth for full-stack, blockchain, and AI work, including the [portfolio](https://github.com/antonkarasbiz/portfolio) and current project repositories.
+
+Do not use this repository as a profile, contact point, or project index.
